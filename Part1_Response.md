@@ -14,7 +14,7 @@ UI Issues
 
 UI Improvements
 
-1  Price can say curreny on top.
+1.  Price can say curreny on top.
 2. Date Box can include quick navigation between years.
 3. for unique identification of Booking- Booking ID could have also been displayed on the Page. makes automation testing easier.
 4. for better UX - Deposit label should have been default none selected . Currently it is selected as true.
