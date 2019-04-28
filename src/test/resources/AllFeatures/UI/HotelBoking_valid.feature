@@ -10,6 +10,9 @@ Feature: HotelBooking Page UI Test
     |2 Deposit= false price= fraction| FNAME,SNAME,PRICE,DEPOSIT,CHECKIN,CHECKOUT  | FName,LName,123.45,true,2019-04-21,2019-04-29|
 
     # other test cases with other data variation for automation to follow here
+    # Schema Validation
+    # Data type validation
+
 
   Scenario Outline: This is an UI Test to delete an existing Booking on HotelBooking Page
     Given Booking exist for Parameters "<FormParameters>" with values "<FormValues>"

@@ -3,6 +3,8 @@ Application Under Test: http://hotel-test.equalexperts.io/
 Possible Test cases documented as part of BDD Scenarios\outline.
 Please refer to AllFeatures\API\HotelBooking_**.feature
 
+Issues.docx exists in Project with some sample screenshot and a API request.
+
 UI Issues
 1. First and Surname are accepting Numbers and special chars. usually only ' or -  special character is alowed.
 2. There are no checks applied on max length of First and Surname. It further causes overlapping issues of same values.
